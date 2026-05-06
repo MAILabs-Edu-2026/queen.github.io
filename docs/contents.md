@@ -20,6 +20,5 @@ nav_order: 2
 | Ленивая оценка | [evaluation](semantics/evaluation.md) |
 | Математика | [core](stdlib/core.md) |
 | Списки | [lists](stdlib/lists.md) |
-| Сборка | [build](tooling/build.md) |
 | CLI | [cli](tooling/cli.md) |
 
