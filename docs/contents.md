@@ -10,15 +10,15 @@ nav_order: 2
 
 ## Разделы
 
-| Раздел | Файл |
-|---|---|
-| Реализованный функционал | [results](results.md) |
-| Установка и запуск | [getting-started](getting-started.md) |
-| Базовый синтаксис | [syntax](syntax/basics.md) |
-| Функции | [functions](syntax/functions.md) |
-| Условия и `match` | [control-flow](syntax/control-flow.md) |
-| Ленивая оценка | [evaluation](semantics/evaluation.md) |
-| Математика | [core](stdlib/core.md) |
-| Списки | [lists](stdlib/lists.md) |
-| CLI | [cli](tooling/cli.md) |
+| Раздел |
+|---|
+| [Реализованный функционал](results.md) |
+| [Установка и запуск](getting-started.md) |
+| [Базовый синтаксис](syntax/basics.md) |
+| [Функции](syntax/functions.md) |
+| [Условия](syntax/control-flow.md) |
+| [Ленивая оценка](semantics/evaluation.md) |
+| [Математика](stdlib/core.md) |
+| [Списки](stdlib/lists.md) |
+| [CLI](tooling/cli.md) |
 
