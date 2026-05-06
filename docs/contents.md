@@ -14,7 +14,7 @@ nav_order: 2
 |---|---|
 | Реализованный функционал | [results](results.md) |
 | Установка и запуск | [getting-started](getting-started.md) |
-| Базовый синтаксис | [syntax/basics](syntax/basics.md) |
+| Базовый синтаксис | [syntax](syntax/basics.md) |
 | Функции | [functions](syntax/functions.md) |
 | Условия и `match` | [control-flow](syntax/control-flow.md) |
 | Ленивая оценка | [evaluation](semantics/evaluation.md) |

@@ -92,7 +92,7 @@ queen help
 **Шаг 3.** Запустите скрипт с помощью CLI:
 
 ```bash
-dotnet run --project src/queen/queen.fsproj -- run hello.qx
+queen run hello.qx
 ```
 
 После выполнения этой команды в консоли появится вывод:
@@ -102,15 +102,15 @@ Hello, Queen!
 ```
 
 
-## 7. Справка CLI
+## 8. Справка CLI
 
 Чтобы получить справку по командам, выполните:
 
 ```bash
-dotnet run --project src/queen/queen.fsproj -- help
+queen help
 ```
 
 
 Эта команда выведет список доступных команд.
 
-🎉 Теперь вы готовы к работе с языком Queen!
+Теперь вы готовы к работе с языком Queen!
